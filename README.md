@@ -1,108 +1,237 @@
-# Hi, I'm Dasari Hemavathi 👋
+<h1 align="center">Hi 👋, I'm Dasari Hemavathi</h1>
+<h3 align="center">Python Full Stack Developer | Software Developer | Problem Solver</h3>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dasarihemavathi)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Dasarihemavathi)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/hemavathi_dasari/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/dasari_hemavath1)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemadasari137@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/dasarihemavathi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Dasarihemavathi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/hemavathi_dasari/">
+    <img src="https://img.shields.io/badge/LeetCode-187%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/dasari_hemavath1">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="mailto:hemadasari137@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🎓 About Me
+# 💫 About Me
 
 🎓 B.Tech Graduate in Computer Science & Engineering
 
-💻 Aspiring Full Stack Developer with a strong interest in Web Development
+💻 Passionate Python Full Stack Developer with hands-on experience in developing responsive web applications using **Python, Django, React, JavaScript, HTML, CSS, and MySQL**.
 
-🌱 Currently improving my skills in Python, JavaScript, and Full Stack Development
+🚀 I enjoy building real-world projects, solving Data Structures & Algorithms problems, and continuously improving my software development skills.
 
-🚀 Passionate about building projects and solving coding problems
+🌱 Currently expanding my knowledge in Django, React, REST APIs, SQL, and System Design.
 
-📚 Practicing Data Structures & Algorithms and preparing for technical interviews
-
-🎯 Looking for Software Developer, Full Stack Developer, and IT-related opportunities
+🎯 Looking for opportunities as a **Software Developer** or **Python Full Stack Developer** where I can contribute, learn, and grow.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-### Programming Languages
+### 👨‍💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,js"/>
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🎨 Frontend Development
 
-### Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### ⚙️ Backend Development
 
-### Database
+<p>
+<img src="https://skillicons.dev/icons?i=django"/>
+</p>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🗄️ Database
 
-### Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### 🔧 Tools & Technologies
 
----
-
-## 🚀 Featured Project
-
-### 🎵 Spotify Clone
-
-- Built using HTML, CSS, and JavaScript
-- Responsive and user-friendly design
-- Interactive music player interface
-- Strengthened frontend development skills
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
 
 ---
 
-## 📜 Certifications
+# 🚀 Featured Projects
 
-✅ Python Full Stack Internship
+## 👨‍💼 Employee Management System
 
-✅ Full Stack Web Development Course
+**Tech Stack:** Python, Django, MySQL, HTML, CSS
 
-✅ HTML & CSS Bootcamp
-
-✅ LinkedIn Learning Course Completion
+- Developed a web-based Employee Management System using Django.
+- Implemented secure user authentication and role-based access.
+- Performed CRUD operations for employee records.
+- Integrated MySQL database for efficient data management.
+- Designed a clean and responsive user interface.
 
 ---
 
-## 🌱 Currently Learning
+## 💼 Job Portal
+
+**Tech Stack:** Python, Django, MySQL, HTML, CSS
+
+- Built a Job Portal connecting recruiters and job seekers.
+- Implemented secure user authentication.
+- Enabled recruiters to post jobs and candidates to apply.
+- Added recruiter and candidate dashboards.
+- Integrated MySQL database for storing users and job applications.
+
+---
+
+## 💰 Personal Finance Tracker
+
+**Tech Stack:** Python, Django, MySQL
+
+- Developed a personal expense tracking application.
+- Added income and expense management.
+- Implemented user authentication.
+- Created financial reports and dashboard.
+
+---
+
+## 🌦 SkyCast Weather App
+
+**Tech Stack:** React.js, Weather API
+
+- Developed a responsive weather application.
+- Displayed current weather and 5-day forecasts.
+- Integrated real-time Weather API.
+- Stored recent search history.
+
+---
+
+## 🤖 AI CRM Project
+
+**Tech Stack:** Python, Django
+
+- Developed an AI-powered CRM application.
+- Managed customer information and lead tracking.
+- Improved business workflow management.
+
+---
+
+## 📊 Interview Tracking System
+
+**Tech Stack:** Python, SQL
+
+- Built an application to manage job applications and interviews.
+- Tracked interview schedules and application status.
+- Stored records using SQL database.
+
+---
+
+## 📱 QR Code Generator
+
+**Tech Stack:** Python
+
+- Developed a QR Code Generator for text and URLs.
+- Simple, lightweight, and user-friendly interface.
+
+---
+
+# 🧩 Coding Profiles
+
+- 💻 Solved **187+ LeetCode Problems**
+- 🟢 Easy: **126**
+- 🟡 Medium: **59**
+- 🔴 Hard: **2**
+- 🔥 Maximum Streak: **48 Days**
+- 🏅 Earned **50 Days Badge 2026**
+- 🚀 Strong foundation in Data Structures & Algorithms
+- 🎯 Regularly practicing coding problems for Software Developer interviews
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Dasarihemavathi&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dasarihemavathi&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dasarihemavathi&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 Certifications
+
+- Python Full Stack Internship
+- Full Stack Web Development
+- HTML & CSS Bootcamp
+- LinkedIn Learning Courses
+
+---
+
+# 🌱 Currently Learning
 
 - Advanced Python
-- JavaScript
+- Django REST Framework
+- React.js
+- SQL Optimization
 - Data Structures & Algorithms
-- Full Stack Development
-- Interview Preparation
+- System Design Fundamentals
 
 ---
 
-## 🎯 Career Goals
+# 🎯 Career Goals
 
-- Build real-world projects
-- Improve problem-solving skills
-- Contribute to open-source projects
-- Start my professional career in IT
-- Continuously learn and grow as a developer
-
----
-
-## 📫 Connect With Me
-
-💼 LinkedIn: www.linkedin.com/in/dasarihemavathi
-
-📧 Email: hemadasari137@gmail.com
-
-🌐 GitHub: https://github.com/Dasarihemavathi
+- 🚀 Build scalable and user-friendly web applications
+- 💡 Solve real-world software engineering problems
+- 🤝 Contribute to open-source projects
+- 📈 Continuously improve my technical and problem-solving skills
+- 💼 Grow as a Full Stack Software Engineer
 
 ---
 
-> "Success comes from continuous learning, consistent practice, and never giving up."
+# 📫 Connect With Me
 
-⭐ Thank you for visiting my profile!
+📧 **Email:**  
+**dasari.hemavathi8541@gmail.com**
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/dasarihemavathi
+
+💻 **GitHub:**  
+https://github.com/Dasarihemavathi
+
+💻 **LeetCode:**  
+https://leetcode.com/u/hemavathi_dasari/
+
+🟢 **HackerRank:**  
+https://www.hackerrank.com/profile/dasari_hemavath1
+
+🌐 **Portfolio:**  
+https://portfolio-split.vercel.app
+
+---
+
+# 💡 Quote
+
+> **"Success is built through consistency, curiosity, and continuous learning."**
+
+---
+
+<h3 align="center">⭐ Thank you for visiting my profile! ⭐</h3>
