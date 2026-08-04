@@ -69,131 +69,27 @@
 
 ---
 
-# 🚀 Featured Projects
-
-## 👨‍💼 Employee Management System
-
-**Tech Stack:** Python, Django, MySQL, HTML, CSS
-
-- Developed a web-based Employee Management System using Django.
-- Implemented secure user authentication and role-based access.
-- Performed CRUD operations for employee records.
-- Integrated MySQL database for efficient data management.
-- Designed a clean and responsive user interface.
-
 ---
 
-## 💼 Job Portal
 
-**Tech Stack:** Python, Django, MySQL, HTML, CSS
 
-- Built a Job Portal connecting recruiters and job seekers.
-- Implemented secure user authentication.
-- Enabled recruiters to post jobs and candidates to apply.
-- Added recruiter and candidate dashboards.
-- Integrated MySQL database for storing users and job applications.
-
----
-
-## 💰 Personal Finance Tracker
-
-**Tech Stack:** Python, Django, MySQL
-
-- Developed a personal expense tracking application.
-- Added income and expense management.
-- Implemented user authentication.
-- Created financial reports and dashboard.
-
----
-
-## 🌦 SkyCast Weather App
-
-**Tech Stack:** React.js, Weather API
-
-- Developed a responsive weather application.
-- Displayed current weather and 5-day forecasts.
-- Integrated real-time Weather API.
-- Stored recent search history.
-
----
-
-## 🤖 AI CRM Project
-
-**Tech Stack:** Python, Django
-
-- Developed an AI-powered CRM application.
-- Managed customer information and lead tracking.
-- Improved business workflow management.
-
----
-
-## 📊 Interview Tracking System
-
-**Tech Stack:** Python, SQL
-
-- Built an application to manage job applications and interviews.
-- Tracked interview schedules and application status.
-- Stored records using SQL database.
-
----
-
-## 📱 QR Code Generator
-
-**Tech Stack:** Python
-
-- Developed a QR Code Generator for text and URLs.
-- Simple, lightweight, and user-friendly interface.
-
----
 
 # 🧩 Coding Profiles
 
-- 💻 Solved **187+ LeetCode Problems**
-- 🟢 Easy: **126**
-- 🟡 Medium: **59**
-- 🔴 Hard: **2**
-- 🔥 Maximum Streak: **48 Days**
+- 💻 Solved **200+ LeetCode Problems**
+
 - 🏅 Earned **50 Days Badge 2026**
 - 🚀 Strong foundation in Data Structures & Algorithms
 - 🎯 Regularly practicing coding problems for Software Developer interviews
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dasarihemavathi&show_icons=true&theme=tokyonight"/>
-</p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dasarihemavathi&theme=tokyonight"/>
-</p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dasarihemavathi&layout=compact&theme=tokyonight"/>
-</p>
 
----
 
-# 🏆 Certifications
 
-- Python Full Stack Internship
-- Full Stack Web Development
-- HTML & CSS Bootcamp
-- LinkedIn Learning Courses
-
----
-
-# 🌱 Currently Learning
-
-- Advanced Python
-- Django REST Framework
-- React.js
-- SQL Optimization
-- Data Structures & Algorithms
-- System Design Fundamentals
-
----
 
 # 🎯 Career Goals
 
