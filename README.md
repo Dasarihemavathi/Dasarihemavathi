@@ -85,12 +85,6 @@
 ---
 
 
-
-
-
-
-
-
 # 🎯 Career Goals
 
 - 🚀 Build scalable and user-friendly web applications
