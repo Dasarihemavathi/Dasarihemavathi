@@ -78,7 +78,7 @@
 
 - 💻 Solved **200+ LeetCode Problems**
 
-- 🏅 Earned **50 Days Badge 2026**
+- 🏅 Earned **50 Day and 100 Day Badge 2026**
 - 🚀 Strong foundation in Data Structures & Algorithms
 - 🎯 Regularly practicing coding problems for Software Developer interviews
 
